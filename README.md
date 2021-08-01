@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**cadalzolc/cadalzolc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Github Page. You can for my completed projects and other tutorials.
+I am commiting to build a community for developer's to share knowledges in different languages.
+Hope we can collaborate in the future:
 
-Here are some ideas to get you started:
+Please check my list if you need something for me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working as Software Designer (Node.Js, Python, Flutter and C# Projects).
+- 🌱 I’m currently learning Electron and Haxe.
+- 👯 I’m looking for collaborator to make an open-source project.
+- 🤔 You can hire me as private tutor.
+- 💬 You can ask me for a free basic tutorial or online coding.
+- 📫 Reach me thru: cadalzolc@urapz.com
+- 📺 Follow me on Youtube: [Subscribe](https://www.youtube.com/channel/UCYvC7DmK6dFdFCXi7_B1Uew)
+- ⚡ Join our discord channel: [Discord](https://discord.gg/QnwUz7YQe8)
+- ☕️ You like my works: [Buy me a coffe](https://www.buymeacoffee.com/cadalzolc)
+- 🌎 Donate for a Cause: [Helping Hand](https://www.paypal.com/donate?hosted_button_id=7PRL64NB79C72)0
+
+```yaml
+Personal : https://cadalzolc.com
+Freelance: https://urapz.com
+```
+
+Regards,
+Bet
