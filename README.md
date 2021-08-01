@@ -15,7 +15,7 @@ Please check my list if you need something for me:
 - 📺 Follow me on Youtube: [Subscribe](https://www.youtube.com/channel/UCYvC7DmK6dFdFCXi7_B1Uew)
 - ⚡ Join our discord channel: [Discord](https://discord.gg/QnwUz7YQe8)
 - ☕️ You like my works: [Buy me a coffe](https://www.buymeacoffee.com/cadalzolc)
-- 🌎 Donate for a Cause: [Helping Hand](https://www.paypal.com/donate?hosted_button_id=7PRL64NB79C72)0
+- 🌎 Donate for a Cause: [Appreciated](https://www.paypal.com/donate?hosted_button_id=7PRL64NB79C72)
 
 ```yaml
 Personal : https://cadalzolc.com
