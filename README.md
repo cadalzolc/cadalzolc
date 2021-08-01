@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my Github Page. You can for my completed projects and other tutorials.
+Welcome to my Github Page. You can explore my completed projects and other tutorials.
 I am commiting to build a community for developer's to share knowledges in different languages.
 Hope we can collaborate in the future:
 
