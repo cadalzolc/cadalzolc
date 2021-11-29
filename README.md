@@ -11,7 +11,7 @@ Please check my list if you need something for me:
 - 👯 I’m looking for collaborator to make an open-source project.
 - 🤔 You can hire me as private tutor.
 - 💬 You can ask me for a free basic tutorial or online coding.
-- 📫 Reach me thru: cadalzolc@urapz.com
+- 📫 Reach me thru: cadalzolc@gmail.com
 - 📺 Follow me on Youtube: [Subscribe](https://www.youtube.com/channel/UCYvC7DmK6dFdFCXi7_B1Uew)
 - ⚡ Join our discord channel: [Discord](https://discord.gg/QnwUz7YQe8)
 - ☕️ You like my works: [Buy me a coffee](https://www.buymeacoffee.com/cadalzolc)
