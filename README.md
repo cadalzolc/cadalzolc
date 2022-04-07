@@ -17,10 +17,5 @@ Please check my list if you need something for me:
 - ☕️ You like my works: [Buy me a coffee](https://www.buymeacoffee.com/cadalzolc)
 - 🌎 Donate for a Cause: [Appreciated](https://www.paypal.com/donate?hosted_button_id=7PRL64NB79C72)
 
-```yaml
-Personal : https://cadalzolc.com
-Freelance: https://urapz.com
-```
-
 Regards,
 Bet
