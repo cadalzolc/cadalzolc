@@ -14,10 +14,8 @@ Check this out if you need something:
 - 📫 Reach me thru: cadalzolc@niftyers.com
 - 📺 Follow me on Youtube: [Subscribe](https://www.youtube.com/channel/UCYvC7DmK6dFdFCXi7_B1Uew)
 - ☕️ You like my works: [Buy me a coffee](https://www.buymeacoffee.com/cadalzolc)
-- 🌎 Donate for a Cause: [Appreciated](https://www.paypal.com/donate?hosted_button_id=7PRL64NB79C72)
-
-### Coming Soon
-🌎 NIFTYERS [Website](https://niftyers.com)
+- 🌎 Accpeting donations: [Appreciated](https://www.paypal.com/donate?hosted_button_id=7PRL64NB79C72)
+- 🌎 Coming Soon [Niftyers Website www.niftyers.com](https://niftyers.com)
 
 Regards,
 Bet
