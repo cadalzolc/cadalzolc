@@ -1,20 +1,23 @@
-### Hi there 👋
+### Hi there 👋 Awesome Morning,
 
-Welcome to my Github Page. You can explore my completed projects and other tutorials.
-I am commiting to build a community for developer's to share knowledges in different languages.
+Welcome to my Github Page. You can explore my repository for projects and related tutorials.
+I am committed to share my knowledges for out of school people and interested in software development.
 Hope we can collaborate in the future:
 
-Please check my list if you need something for me:
+Check this out if you need something:
 
-- 🔭 I’m currently working as Software Designer (Node.Js, Python, Flutter and C# Projects).
-- 🌱 I’m currently learning Electron and Haxe.
-- 👯 I’m looking for collaborator to make an open-source project.
-- 🤔 You can hire me as private tutor.
-- 💬 You can ask me for a free basic tutorial or online coding.
+- 🔭 I’m currently working as Software Developer for US based clients.
+- 🌱 I’m currently learning Haxe and Cloud Computing.
+- 👯 I’m looking for a collaborator to make an open-source project.
+- 🤔 You can hire me as as Freelance private tutor or commissioned projects.
+- 💬 You can hire me as a Freelance your IT Consultant.
 - 📫 Reach me thru: cadalzolc@niftyers.com
 - 📺 Follow me on Youtube: [Subscribe](https://www.youtube.com/channel/UCYvC7DmK6dFdFCXi7_B1Uew)
 - ☕️ You like my works: [Buy me a coffee](https://www.buymeacoffee.com/cadalzolc)
 - 🌎 Donate for a Cause: [Appreciated](https://www.paypal.com/donate?hosted_button_id=7PRL64NB79C72)
+
+### Coming Soon
+🌎 NIFTYERS [Website](https://niftyers.com)
 
 Regards,
 Bet
