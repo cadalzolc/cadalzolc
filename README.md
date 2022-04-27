@@ -7,7 +7,8 @@ Hope we can collaborate in the future:
 Check this out if you need something:
 
 - 🔭 I’m currently working as Software Developer for US based clients.
-- 🌱 I’m currently learning Haxe and Cloud Computing.
+- 🌱 I’m currently learning RPA and Cloud Computing.
+- 🌱 I’m providing services in google app scripts automation.
 - 👯 I’m looking for a collaborator to make an open-source project.
 - 🤔 You can hire me as as Freelance private tutor or commissioned projects.
 - 💬 You can hire me as a Freelance your IT Consultant.
@@ -19,4 +20,4 @@ Check this out if you need something:
 
 
 Regards,
-Bert
+:Bert
