@@ -1,4 +1,4 @@
-### Hi there 👋 Awesome Morning,
+### 👋 Awesome Morning,
 
 Welcome to my Github Page. You can explore my repository for projects and related tutorials.
 I am committed to share my knowledges for out of school people and interested in software development.
