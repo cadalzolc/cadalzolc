@@ -15,5 +15,7 @@ Check this out if you have something for me:
 ### Got a work for me?
  📫 Reach me thru: cadalzolc@niftyers.com
 
+```javascript
 Regards,
-:Bert
+Bert
+```
