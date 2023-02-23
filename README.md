@@ -6,15 +6,14 @@ Hope we can collaborate in the future:
 
 Check this out if you have something for me:
 
-- 🔭 I’m currently working as an Off-shore Software Developer for US based clients.
+- 🔭 I’m currently working as an Off-shore Fullstack .Net Developer.
 - 🌱 I’m teaching out of school youth.
 - 🤔 You can hire me as as Freelance private tutor or commissioned projects.
-- 💬 You can hire me as a Outsource Dev Consultant.
-- 📫 Reach me thru: cadalzolc@niftyers.com
-- 📺 Follow me on Youtube: [Subscribe](https://www.youtube.com/channel/UCPFQSGhiYuOnJ72bRzuKFTA)
-- ☕️ If you like my works: [Buy me a coffee](https://www.buymeacoffee.com/cadalzolc)
-- 🌎 Accepting Donation for School Youth: [Appreciated](https://www.paypal.com/donate?hosted_button_id=7PRL64NB79C72)
+- 💬 You can hire me as a Outsource Fullstack .Net Developer.
 - 🌎 Coming Soon [Website](https://niftyers.com)
+
+### Got a work for me?
+ 📫 Reach me thru: cadalzolc@niftyers.com
 
 Regards,
 :Bert
