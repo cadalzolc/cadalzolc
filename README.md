@@ -10,7 +10,6 @@ Check this out if you have something for me:
 - 🌱 I’m teaching out of school youth.
 - 🤔 You can hire me as as Freelance private tutor or commissioned projects.
 - 💬 You can hire me as a Outsource Fullstack .Net Developer.
-- 🌎 Coming Soon [Website](https://niftyers.com)
 
 ### Got a work for me?
  📫 Reach me thru: cadalzolc@niftyers.com
