@@ -1,15 +1,14 @@
 ### 👋 Awesome Morning,
 
-Welcome to my Github Page. You can explore my repositories for projects and related tutorials.
-I am committed to share my knowledge for out of school youth.
-Hope we can collaborate in the future:
+Hi, Welcome to my Github Page. 
 
-Check this out if you have something for me:
+You can explore my repositories for free projects and related tutorials.
+If you have inquiry feel free to reach me out.
 
-- 🔭 I’m currently working as an Off-shore Fullstack .Net Developer.
+Check this out if you want to collaborate:
+- 🔭 I’m currently working as an Off-shore Fullstack Developer.
 - 🌱 I’m teaching out of school youth.
-- 🤔 You can hire me as as Freelance private tutor or commissioned projects.
-- 💬 You can hire me as a Outsource Fullstack .Net Developer.
+- 🤔 You can hire me for project based contract.
 
 ### Got a work for me?
  📫 Reach me thru: cadalzolc@niftyers.com
