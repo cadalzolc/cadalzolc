@@ -14,6 +14,8 @@ Check this out if you have something for me:
 ### Got a work for me?
  📫 Reach me thru: cadalzolc@niftyers.com
 
+[<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cadalzolc/)
+
 ```javascript
 Regards,
 Bert
