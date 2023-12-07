@@ -2,13 +2,14 @@
 
 Hi, Welcome to my Github Page. 
 
-You can explore my repositories for free projects and related tutorials.
-If you have inquiry feel free to reach me out.
+You can explore my repositories for sample projects.
 
-Check this out if you want to collaborate:
-- 🔭 I’m currently working as an Off-shore Fullstack Developer.
-- 🌱 I’m teaching out of school youth.
-- 🤔 You can hire me for project based contract.
+If you have inquiry feel free to contact me.
+
+Tim is gold, let's do it:
+- 🔭 I’m currently working as an Off-shore Fullstack Developer in .Net, Vue.js and React.Js (US Timezone).
+- 🌱 I’m teaching programming skill for out of school youth in my free time.
+- 🤔 You can hire me for comissioned project or contract based.
 
 ### Got a work for me?
  📫 Reach me thru: cadalzolc@niftyers.com
