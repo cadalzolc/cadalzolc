@@ -16,6 +16,9 @@ Tim is gold, let's do it:
 
 [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cadalzolc/)
 
+Cloud Platform
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=f68cf15f35d7&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
 ```javascript
 Regards,
 Bert
