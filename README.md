@@ -11,9 +11,6 @@ Tim is gold, let's do it:
 - 🌱 I’m teaching programming skill for out of school youth in my free time.
 - 🤔 You can hire me for comissioned project or contract based.
 
-### Got a work for me?
- 📫 Reach me thru: cadalzolc@outlook.com
-
 [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cadalzolc/)
 
 ### Let's do it
