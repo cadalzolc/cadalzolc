@@ -7,7 +7,7 @@ You can explore my repositories for sample projects.
 If you have inquiry feel free to contact me.
 
 Tim is gold, let's do it:
-- 🔭 I’m currently working as an Off-shore Fullstack Developer in .Net, Vue.js and React.Js (US Timezone).
+- 🔭 I’m currently working as an Off-shore Fullstack Developer US Timezone.
 - 🌱 I’m teaching programming skill for out of school youth in my free time.
 - 🤔 You can hire me for comissioned project or contract based.
 
