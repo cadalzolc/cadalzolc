@@ -7,9 +7,8 @@
 You can explore my repositories for sample projects.
 If you have inquiry feel free to contact me or send me an email: cadalzolc@niftyers.com
 
-Time is gold, let's do it:
 - 🔭 I’m currently working as an Off-shore Fullstack Developer US Timezone.
-- 🌱 I’m coached programming skill for out of school youth in my free time.
+- 🌱 I’m coaching programming, book an appoinment, please reminded that this is paid session.
 - 🤔 You can hire me for comissioned project or contract based.
 
 [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cadalzolc/)
