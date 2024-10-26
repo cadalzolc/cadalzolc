@@ -46,14 +46,15 @@ If you have inquiry feel free to contact me or send me an email: cadalzolc@nifty
 "email": "cadalzolc@niftyers.com",
 "website": "cadalzolc.com",
 "role": "Fullstack Developer",
-"skills": ["C#", "Typescript", "Javascript", "Python", "React", "Vue", "Next.js", "Express.js", "Electron.js", "AWS Lambda", "Shopify Liquid", "Golang"],
+"skills": ["C#", "Typescript", "Javascript", "Python", "React", "Vue", "Next.js", "Express.js", "Electron.js", "AWS Lambda"],
 "database": ["MongoDB", "PostgreSQL", "MySQL", "MsSQL", "SQLlite", "Firebase"],
 "cloud": ["AWS", "GCP", "Microsoft Azure", "Digital Ocean", "Heroku", "Hostwind"],
-"tools": ["Git", "Github", "Gitlab", "VsCode"]
+"tools": ["Git", "Github", "Gitlab", "VsCode"],
+"others": ["WordPress", "Shopify", "WooCommerce", "GoHighLevel"]
 }
 ```
 
-```javascript
+```bash
 Regards,
 Bert
 ```
