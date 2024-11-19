@@ -36,9 +36,7 @@ If you have inquiry feel free to contact me or send me an email: cadalzolc@nifty
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ```json
 {
@@ -46,10 +44,10 @@ If you have inquiry feel free to contact me or send me an email: cadalzolc@nifty
 "email": "cadalzolc@niftyers.com",
 "website": "cadalzolc.com",
 "role": "Fullstack Developer",
-"skills": ["C#", "Typescript", "Javascript", "Python", "React", "Vue", "Next.js", "Express.js", "Electron.js", "AWS Lambda"],
-"database": ["MongoDB", "PostgreSQL", "MySQL", "MsSQL", "SQLlite", "Firebase"],
+"skills": ["C#", "Typescript", "Javascript", "Python", "React", "Vue", "Next.js", "NestJs", "Express.js", "Electron.js", "AWS Lambda", "Php"],
+"database": ["MongoDB", "PostgreSQL", "MySQL", "MsSQL", "SQLlite", "Firebase", "Redis"],
 "cloud": ["AWS", "GCP", "Microsoft Azure", "Digital Ocean", "Heroku", "Hostwind"],
-"tools": ["Git", "Github", "Gitlab", "VsCode"],
+"tools": ["Git", "Github", "Gitlab", "VsCode", "BitBucket", "Linux", "BullMQ"],
 "others": ["WordPress", "Shopify", "WooCommerce", "GoHighLevel"]
 }
 ```
