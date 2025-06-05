@@ -1,5 +1,3 @@
-### LAMBERT CADALZO
-
 👋 Awesome Morning, Welcome to my Github Page.
 
 You can explore my repositories for sample projects.
